@@ -1,4 +1,4 @@
-# Daily-Reading
+# Share-Reading
 
 推荐好文请提 Issue
 
