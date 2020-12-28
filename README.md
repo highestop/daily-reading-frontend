@@ -1,5 +1,7 @@
 # Frontend-Reading
 
+FEer 前端小分队每周阅读计划
+
 ## 贡献
 
 推荐好文请提 Issue
