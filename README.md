@@ -1,6 +1,6 @@
 # Frontend-Reading
 
-FEer 前端小分队每周阅读计划
+前端每周阅读计划
 
 ## 贡献
 
