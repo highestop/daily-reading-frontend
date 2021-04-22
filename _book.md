@@ -7,7 +7,7 @@
 - 系统之美
 - 软技能：代码之外的生存指南
 - 编写可读代码的艺术
-- The Manager's Path - Camille Fournier.epub
+- The Manager's Path - Camille Fournier
 
 ## 前端
 
