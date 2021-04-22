@@ -11,7 +11,6 @@
 
 ## 前端
 
-- Dan Vanderkam - Effective TypeScript - Specific Ways To Improve Your TypeScript - O’Reilly Media - 2019
 - 前端架构：从入门到微前端
 - 前端工程化：体系设计与实践
 - 深入浅出 RxJS
