@@ -7,7 +7,6 @@
 - 系统之美
 - 软技能：代码之外的生存指南
 - 编写可读代码的艺术
-- The Manager's Path - Camille Fournier
 
 ## 前端
 
@@ -21,3 +20,13 @@
 - Angular 高级编程（ 第 3 版 ）
 - Angular 企业级应用开发实战
 - 揭秘 Angular
+
+## 全栈
+
+- 图解 HTTP、HTTP 权威指南
+- 持续交付 2.0：发布可靠软件的系统方法
+- 领域驱动设计：软件核心复杂性应对之道
+
+## 管理
+
+- The Manager's Path - Camille Fournier
