@@ -14,7 +14,7 @@
 
 ## 准备
 
-- 在此项目中，创建一个新的 Issue，标题命名如 `2021-5-26: {主题}`
+- 在此项目中，创建一个新的 Issue，标题命名如 `2021-05-26: {主题}`
 - 将文档链接更新到群公告中，便于大家查看阅读
 
 ## 形式
@@ -27,4 +27,3 @@
 ## 后续
 
 - 每个 Q 我们读过的所有文章会记录在这里 <https://github.com/highestop/feer-readings/tree/main/quarterly>
-- 这个项目 <https://github.com/highestop/feer-readings> 的 Codebase 会定期同步到本项目中
