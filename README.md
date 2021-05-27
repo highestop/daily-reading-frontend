@@ -1,6 +1,6 @@
 # 猿辅导 FEer 前端阅读分享计划
 
-- [新版分享](https://gitlab.zhenguanyu.com/feer/sharings/tree/master/readings)
+- [新版分享](https://gitlab.zhenguanyu.com/feer/sharings/tree/master/feer-readings)
 - [往期分享](https://confluence.zhenguanyu.com/pages/viewpage.action?pageId=112920531)
 
 ## 目的
