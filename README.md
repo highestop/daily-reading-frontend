@@ -9,8 +9,8 @@
 ## 主题
 
 - 没有限制，但需要『 有实际意义 』
-- 这里 <https://github.com/highestop/feer-readings/issues> 会有一些大家推荐的文章，没有找到合适的内容时可以来这些挑选。也欢迎大家都来补充文章
-- 这里 <https://github.com/highestop/feer-readings> 还有一些学习和阅读渠道，如书籍、公众号和博客空间
+- 这里 <https://github.com/highestop/yfd-feer-readings/issues> 会有一些大家推荐的文章，没有找到合适的内容时可以来这些挑选。也欢迎大家都来补充文章
+- 这里 <https://github.com/highestop/yfd-feer-readings> 还有一些学习和阅读渠道，如书籍、公众号和博客空间
 
 > Q：为什么不再这个项目中提 Issue？
 > 
@@ -56,4 +56,4 @@
 
 ## 后续
 
-- 我们读过的所有文章会按季度记录在这里 <https://github.com/highestop/feer-readings/tree/main/quarterly>
+- 我们读过的所有文章会按季度记录在这里 <https://github.com/highestop/yfd-feer-readings/tree/main/quarterly>
