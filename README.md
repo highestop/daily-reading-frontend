@@ -1,3 +1,3 @@
-# YFE Workshop
+# YFE-Workshop
 
-Reading recommendation, learning material, article translation, idea mindstorm, e.t.
+Learning material, reading recommendation, article translation, idea mindstorm, e.t.
