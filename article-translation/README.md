@@ -1,11 +1,11 @@
-# Article Translation
+# 文章翻译计划
 
-Create a file named `{origin-article-title}.md`, and start with the following content.
+创建一个名为 `{原文章标题}.md` 的文件，正文参考如下:
 
 ```
-# {translated-title}
+# {翻译标题}
 
-> Origin: [{origin-article-title}](origin-article-link)
+> Origin: [{原文章标题}]({原文章链接})
 
-{translation-content}
+{翻译正文}
 ```
