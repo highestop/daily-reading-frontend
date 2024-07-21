@@ -1,4 +1,4 @@
-# frontend-reading
+# frontend-reading (archived)
 
 - [quarter-reports](./quarterly-reports)
 - [effective-typescript](./effective-typescript)
